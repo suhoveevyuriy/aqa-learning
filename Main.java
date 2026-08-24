@@ -9,14 +9,14 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("========= Student Grades Validator ==========");
 
-        System.out.print("Enter student name: ");
+        System.out.print("Enter student name please: ");
         String name = scanner.nextLine();
 
         Student student;
 
         while (true) {
 
-            System.out.print("Enter grade (1-12): ");
+            System.out.print("Enter grade from 1 to 12 please : ");
 
             int grade = scanner.nextInt();
 
