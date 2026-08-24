@@ -30,9 +30,9 @@ public class Main {
         }
 
         System.out.println("\n===== Student Report =====");
-        System.out.println("Name: " + student.getName());
-        System.out.println("Grade: " + student.getGrade());
-        System.out.println("Level: " + student.getLevel());
+        System.out.println("Student's Name: " + student.getName());
+        System.out.println("Student's Grade: " + student.getGrade());
+        System.out.println("Student's Level: " + student.getLevel());
 
     }
 }
