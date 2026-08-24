@@ -30,7 +30,7 @@ public class Student {
         } else if (grade <= 6) {
             return GradeLevel.MIDDLE;
         } else if (grade <= 9) {
-            return GradeLevel.GOOD;
+            return GradeLevel.GREAT;
         } else {
             return GradeLevel.EXCELLENT;
         }
