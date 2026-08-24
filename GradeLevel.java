@@ -4,7 +4,7 @@ public enum GradeLevel {
 
     LOW,
     MIDDLE,
-    GREATE,
+    GREAT,
     EXCELLENT,
 
 
