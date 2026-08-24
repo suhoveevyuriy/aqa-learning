@@ -16,7 +16,7 @@ public class Main {
 
         while (true) {
 
-            System.out.print("Enter grade from 1 to 12 please : ");
+            System.out.print("Enter grade from 1 to 12 please: ");
 
             int grade = scanner.nextInt();
 
